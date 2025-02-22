@@ -144,8 +144,8 @@ cls
 echo %esc%[97mThese Are Websites you can use in pc checks to help Validate detections.
 echo %esc%[97mTo exit this Screen and Go back to the Menu Please Type back
 echo.
-echo %esc%[32m1»Virus Total  3»Device Hunter     5»Storm Download
-echo %esc%[32m2»Triage       4»Hybrid analysis 
+echo %esc%[32m1»Virus Total  3»Device Hunter     5»Storm Download 7»Nirsoft
+echo %esc%[32m2»Triage       4»Hybrid analysis   6»Eric Zimmerman 
 echo. 
 set /p scanner_input=➤
 
@@ -156,6 +156,8 @@ if /i "!scanner_input!"=="2" start https://tria.ge
 if /i "!scanner_input!"=="3" start https://devicehunt.com
 if /i "!scanner_input!"=="4" start https://www.hybrid-analysis.com
 if /i "!scanner_input!"=="5" start https://stormss.cc/download
+if /i "!scanner_input!"=="6" https://ericzimmerman.github.io/#!index.md
+if /i "!scanner_input!"=="7" start https://www.nirsoft.net/computer_forensic_software.html
 goto scanner
 
 :services
