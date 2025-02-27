@@ -9,3 +9,6 @@
 22/02/2025
 Added Ericzimmerman site for a few other tools we go over in detecting 
 Added Nirsoft Site for a few other tools we go over in detecting 
+
+27/02/2025
+Switched Prev file recovery to Recuva the previous one is dog shit :)
