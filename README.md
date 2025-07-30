@@ -12,3 +12,6 @@ Added Nirsoft Site for a few other tools we go over in detecting
 
 27/02/2025
 Switched Prev file recovery to Recuva the previous one is dog shit :)
+
+30/07/2025
+This will be updated shortly aiming to add more service and process monitering ie disabled or recently tampered with. 
